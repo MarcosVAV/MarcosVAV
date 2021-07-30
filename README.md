@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente Trabalhando Full-Stack
-- 🌱 Estudando Vue.js
+- 🌱 Estudando Vue.js e Clean Code
 
 <div>
   <a href="https://github.com/MarcosVAV">
