@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 🔭 Atualmente Trabalhando Full-Stack
-- 🌱 Sempre estudando Vue.js e Laravel
+- 🔭 Trabalhando Full-Stack
+- 🌱 Estudando nodeJs -> adonis
 
 <div>
   <a href="https://github.com/MarcosVAV">
