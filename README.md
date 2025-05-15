@@ -1,7 +1,5 @@
 ### Olá 👋
 
-- 🔭 Trabalhando Full-Stack
-- 🌱 Estudando nodeJs -> adonis
 
 <div>
   <a href="https://github.com/MarcosVAV">
